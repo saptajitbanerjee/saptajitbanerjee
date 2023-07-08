@@ -24,10 +24,10 @@
 </div>
 <table align="center" border="0"">
   <tr>
-    <td>
-    <p padding="150"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saptajitbanerjee&show_icons=true&locale=en&layout=compact" alt="saptajitbanerjee" /></p>
+    <td align="center">
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saptajitbanerjee&show_icons=true&locale=en&layout=compact" alt="saptajitbanerjee" /></p>
     </td>
-    <td>
+    <td align="center">
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=saptajitbanerjee&show_icons=true&locale=en" alt="saptajitbanerjee" /></p>
     </td>
   </tr>
