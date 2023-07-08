@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=saptajitbanerjee&show_icons=true&locale=en" alt="saptajitbanerjee" /></p>
 
-<center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saptajitbanerjee&" alt="saptajitbanerjee" /></center>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=saptajitbanerjee&" alt="saptajitbanerjee" /></p>
