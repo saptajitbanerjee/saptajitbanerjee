@@ -31,9 +31,9 @@
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=saptajitbanerjee&show_icons=true&locale=en" alt="saptajitbanerjee" /></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saptajitbanerjee&" alt="saptajitbanerjee" /></p>
+    </td>
+  </tr>
 </table>
-| Header 1 | Header 2 |
-| -------- | -------- |
-| Content 1 | Content 2 |
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saptajitbanerjee&" alt="saptajitbanerjee" /></p>
