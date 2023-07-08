@@ -25,7 +25,7 @@
 <table align="center">
   <tr>
     <td>
-    <p padding="150"><img src="https://github-readme-stats.vercel.app/api/top-langs username=saptajitbanerjee&show_icons=true&locale=en&layout=compact" alt="saptajitbanerjee" /></p>
+    <p padding="150"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saptajitbanerjee&show_icons=true&locale=en&layout=compact" alt="saptajitbanerjee" /></p>
     </td>
     <td>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=saptajitbanerjee&show_icons=true&locale=en" alt="saptajitbanerjee" /></p>
