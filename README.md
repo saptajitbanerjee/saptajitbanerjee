@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saptajit Banerjee</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img src="https://komarev.com/ghpvc/?username=saptajitbanerjeeS&label=PROFILE+VIEW/>
+<img src="https://komarev.com/ghpvc/?username=saptajitbanerjeeS&style=for-the-badge&label=PROFILE+VIEW"/>
 <div style="display:flex;padding:10px;">
 <img align="right" alt="Coding" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <div>
