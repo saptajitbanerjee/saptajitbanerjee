@@ -25,7 +25,7 @@
 <table align="center" border="0"">
   <tr>
     <td align="left">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saptajitbanerjee&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="saptajitbanerjee" /></p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saptajitbanerjee&theme=react&show_icons=true&locale=en&layout=compact" alt="saptajitbanerjee" /></p>
     </td>
     <td align="left">
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=saptajitbanerjee&show_icons=true&locale=en" alt="saptajitbanerjee" /></p>
