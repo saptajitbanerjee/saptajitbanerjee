@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **saptajitbanerjee2002@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1-cUCtjKuxWtIY-IGK3S99ffhYy0NjKO_IN65dLmXiZw/edit?usp=sharing](https://docs.google.com/document/d/1-cUCtjKuxWtIY-IGK3S99ffhYy0NjKO_IN65dLmXiZw/edit?usp=sharing)
+- 📄 Know about my experiences (https://docs.google.com/document/d/1-cUCtjKuxWtIY-IGK3S99ffhYy0NjKO_IN65dLmXiZw/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
