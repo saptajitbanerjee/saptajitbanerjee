@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 <h1 align="center">Hi 👋, I'm Saptajit Banerjee</h1>
 <h3 align="center">A Software Developer from India</h3>
 <img src="https://komarev.com/ghpvc/?username=saptajitbanerjee&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="saptajitbanerjee" />
@@ -34,7 +32,7 @@
 </p>
     </td>
     <td align="left">
-<p>&nbsp;<img src="https://github-profile-vercel-gve8v7r1c-saptajitbanerjees-projects.vercel.app/&theme=react&show_icons=true&locale=en" alt="saptajitbanerjee" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=saptajitbanerjee&theme=react&show_icons=true&locale=en" alt="saptajitbanerjee" /></p>
     </td>
   </tr>
   <tr>
@@ -45,3 +43,4 @@
     </td>
   </tr>
 </table>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saptajitbanerjee" alt="saptajitbanerjee" /></a> </p>
