@@ -27,7 +27,7 @@
 <table align="center" border="0"">
   <tr>
     <td align="left">
-    <p><img src="https://github-profile-vercel-saptajitbanerjees-projects.vercel.app/&theme=react&show_icons=true&locale=en&layout=compact" alt="saptajitbanerjee" /></p>
+    <p><img src="https://github-profile-vercel-saptajitbanerjees-projects.vercel.app&theme=react&show_icons=true&locale=en&layout=compact" alt="saptajitbanerjee" /></p>
     </td>
     <td align="left">
 <p>&nbsp;<img src="https://github-profile-vercel-gve8v7r1c-saptajitbanerjees-projects.vercel.app/&theme=react&show_icons=true&locale=en" alt="saptajitbanerjee" /></p>
