@@ -37,7 +37,9 @@
   </tr>
   <tr>
     <td colspan="2">
-      <p align="center"><img align="center" src="https://github-profile-vercel-gve8v7r1c-saptajitbanerjees-projects.vercel.app/&theme=react&show_icons=true" alt="saptajitbanerjee" /></p>
+      <p align="center">
+  <img src="https://github-profile-vercel-plbdj0mqa-saptajitbanerjees-projects.vercel.app/api/top-langs?username=saptajitbanerjee&theme=radical&show_icons=true" alt="saptajitbanerjee" />
+</p>
     </td>
   </tr>
 </table>
