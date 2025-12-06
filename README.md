@@ -1,3 +1,4 @@
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saptajitbanerjee&theme=react)](https://git.io/streak-stats)
 <h1 align="center">Hi 👋, I'm Saptajit Banerjee</h1>
 <h3 align="center">A Software Developer from India</h3>
 <img src="https://komarev.com/ghpvc/?username=saptajitbanerjee&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="saptajitbanerjee" />
