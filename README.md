@@ -27,15 +27,15 @@
 <table align="center" border="0"">
   <tr>
     <td align="left">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saptajitbanerjee&theme=react&show_icons=true&locale=en&layout=compact" alt="saptajitbanerjee" /></p>
+    <p><img src="https://vercel.com/saptajitbanerjees-projects/github-profile-vercel/6S6AbWWWgejRQt3RZHDREahYZ49B/api/top-langs?username=saptajitbanerjee&theme=react&show_icons=true&locale=en&layout=compact" alt="saptajitbanerjee" /></p>
     </td>
     <td align="left">
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=saptajitbanerjee&theme=react&show_icons=true&locale=en" alt="saptajitbanerjee" /></p>
+<p>&nbsp;<img src="https://vercel.com/saptajitbanerjees-projects/github-profile-vercel/6S6AbWWWgejRQt3RZHDREahYZ49B/api?username=saptajitbanerjee&theme=react&show_icons=true&locale=en" alt="saptajitbanerjee" /></p>
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saptajitbanerjee&theme=react&show_icons=true" alt="saptajitbanerjee" /></p>
+      <p align="center"><img align="center" src="https://vercel.com/saptajitbanerjees-projects/github-profile-vercel/6S6AbWWWgejRQt3RZHDREahYZ49B&theme=react&show_icons=true" alt="saptajitbanerjee" /></p>
     </td>
   </tr>
 </table>
