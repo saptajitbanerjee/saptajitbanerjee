@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <h1 align="center">Hi 👋, I'm Saptajit Banerjee</h1>
 <h3 align="center">A Software Developer from India</h3>
 <img src="https://komarev.com/ghpvc/?username=saptajitbanerjee&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="saptajitbanerjee" />
